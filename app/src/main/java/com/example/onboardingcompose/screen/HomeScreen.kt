@@ -24,6 +24,7 @@ import android.service.autofill.OnClickAction as OnClickAction1*/
 
 /*@Composable
 @Preview
+
 fun HomeScreen() {
 
     Image(painter = painterResource(id = R.drawable.bcak)
